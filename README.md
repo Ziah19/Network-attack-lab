@@ -30,8 +30,6 @@ Because Cowrie is a decoy system, every "attack" in this repo was safely trapped
 ```
 network-attack-lab/
 ├── README.md
-├── report/
-│   └── Faaiziat-Akanni-assignment1.docx   # 1-page incident report + screenshot appendix
 ├── captures/
 │   └── cowrie_attack.pcapng               # Full Wireshark packet capture
 └── screenshots/
@@ -48,7 +46,6 @@ network-attack-lab/
 
 ## Evidence
 
-- **Incident report:** [`report/Faaiziat-Akanni-assignment1.docx`](report/Faaiziat-Akanni-assignment1.docx)
 - **Packet capture:** [`captures/cowrie_attack.pcapng`](captures/cowrie_attack.pcapng) — open with Wireshark to inspect every packet exchanged during the attack.
 
 ## Screenshots
